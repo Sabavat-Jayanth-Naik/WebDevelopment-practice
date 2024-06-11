@@ -1,0 +1,24 @@
+.poster{
+
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5rem;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+
+}
+.img-poster{
+    border: 5px solid white;
+    padding: 12px 244px;
+    width: 100%;
+
+}
+body{
+    background: #000;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3em;
+}
